@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/613932595.svg)](https://zenodo.org/badge/latestdoi/613932595)
-
 # EcosystemScaleCoordinationPrinciples
 Code to reproduce the analysis described in the manuscript "Leaf-level coordination principles propagate to the ecosystem scale" by Gomarasca et al., accepted in Nature Communications.
 
